@@ -1,2 +1,2 @@
-
-print("Hello World!")
+def myFunction():
+  return("Hello World!")
